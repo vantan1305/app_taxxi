@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489550550570",
+    "project_id": "taxxiapp-5395a",
+    "storage_bucket": "taxxiapp-5395a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489550550570:android:ab6c5f6c0f64d9d9d49553",
+        "android_client_info": {
+          "package_name": "com.example.register_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489550550570-pqhqvefvisemeadotvrne6cfbc9b8atc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQSU_PyuOQEc5_OMBqX09eMVma01e7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489550550570-pqhqvefvisemeadotvrne6cfbc9b8atc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
